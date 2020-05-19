@@ -1,3 +1,6 @@
+This package moved to https://github.com/spacetab-io/i18n-postgre-go
+--------------------------------------------
+
 # i18n-go-postgre
 Expending i18-go structures to bind them for PostgreSQL libs (gorm, lib/pq)
 
